@@ -20,5 +20,5 @@ Uma semana dedicada a descobrir na prática porque essas tecnologias fazem tanto
 Desenvolver uma aplicação que permita que ONGs cadastrem "casos", detalhando o ocorrido e o valor necessário (Frontend Web), e pessoas possam contribuir, caso desejem (Frontend Mobile). Tudo integrado com API própria (Backend).
 
 <p align="center">
-  <img  width='500' src='https://user-images.githubusercontent.com/45580434/77860977-9b4baa00-71e8-11ea-9952-29223db43055.png'>
+  <img  width='600' src='https://user-images.githubusercontent.com/45580434/77860977-9b4baa00-71e8-11ea-9952-29223db43055.png'>
 </p>
