@@ -4,12 +4,10 @@ Uma semana dedicada a descobrir na prática porque essas tecnologias fazem tanto
 
 **Instrutor**: [Diego Fernandes](https://github.com/diego3g)
 
-
 <p align="center">
   <img  width='400' src='https://user-images.githubusercontent.com/45580434/77861076-3b093800-71e9-11ea-8e63-f976402ce769.png'>
 </p>
 <br><br>
-
 
 ## Projeto: Be The Hero
 
