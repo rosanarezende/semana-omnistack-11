@@ -10,13 +10,13 @@ Uma semana dedicada a descobrir na prática porque essas tecnologias fazem tanto
 <br><br>
 
 
-# Projeto: Be The Hero
+## Projeto: Be The Hero
 
 <p align="center">
   <img  width='200' src='https://user-images.githubusercontent.com/45580434/77860971-97b82300-71e8-11ea-9ed8-b50fb995a820.png'>
 </p>
 
-## Escopo
+### Escopo
 Desenvolver uma aplicação que permita que ONGs cadastrem "casos", detalhando o ocorrido e o valor necessário (Frontend Web), e pessoas possam contribuir, caso desejem (Frontend Mobile). Tudo integrado com API própria (Backend).
 
 <p align="center">
