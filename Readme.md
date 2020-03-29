@@ -6,7 +6,7 @@ Uma semana dedicada a descobrir na prática porque essas tecnologias fazem tanto
   <img  width='400' src='https://user-images.githubusercontent.com/45580434/77861076-3b093800-71e9-11ea-8e63-f976402ce769.png'>
 </p>
 
-**Instrutor:**: [Diego Fernandes](https://github.com/diego3g)
+**Instrutor**: [Diego Fernandes](https://github.com/diego3g)
 <br><br>
 
 
